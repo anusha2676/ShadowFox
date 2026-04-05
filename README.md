@@ -1,48 +1,8 @@
+
 # ShadowFox Internship Tasks
 
-This repository contains tasks completed as part of my Python Internship.
-
----
-
-## 📌 Tasks
-
-### 🔹 Variables Task
-- Created variable pi and checked its data type
-- Tested using reserved keyword as variable
-- Calculated Simple Interest
-
-### 🔹 Numbers Task
-- Used format() function
-- Calculated area of circular pond
-- Calculated total water in pond
-- Calculated speed in m/s
-
-### 🔹 If Condition Task
-- BMI Calculator using if-else
-- City to Country mapping using lists
-- Same Country Check
-
-### 🔹 For Loop Task
-
-#### Dice Simulation
-- Simulated rolling a dice 20 times
-- Counted:
-  - Number of 6s
-  - Number of 1s
-  - Two consecutive 6s
-
-#### Jumping Jacks Workout
-- Simulated workout of 100 jumping jacks
-- Asked user after every 10 jumps
-- Allowed skipping if tired
-- Displayed remaining jumps
-
-### 🔹 Dictionary Task
-- Created list of friends and calculated name lengths
-- Used dictionaries to track expenses
-- Calculated total expenses
-- Compared spending
-- Found highest difference category
+This repository contains Python programs completed during my internship.  
+It demonstrates core programming concepts like variables, loops, conditions, and data structures.
 
 ---
 
@@ -51,90 +11,88 @@ This repository contains tasks completed as part of my Python Internship.
 
 ---
 
+## 📌 Tasks
+
+### 🔹 Variables
+- Data type checking
+- Keyword usage
+- Simple Interest calculation
+
+### 🔹 Numbers
+- Format function
+- Area calculation
+- Speed calculation
+
+### 🔹 If Condition
+- BMI Calculator
+- City to Country mapping
+- Same country check
+
+### 🔹 For Loop
+- Dice simulation
+- Jumping jacks workout
+
+### 🔹 Dictionary
+- Name length tuples
+- Expense tracking system
+
+---
+
 ## 📊 Output
 
-### Variables Task
-pi → float  
-Simple Interest → 150.0  
+### 🔹 Variables
+Value of pi: 3.142857142857143  
+Data type: float  
+Simple Interest: 150.0  
 
-### Numbers Task
+---
+
+### 🔹 Numbers
 First value is 145 and second value is o  
-Area of pond → 22155  
-Total water → 31017  
-Speed → 1 m/s  
-
-## If Condition Task 
-
-### BMI Calculator
-
-Example 1:
-Enter height in meters: 1.75  
-Enter weight in kilograms: 70  
-BMI: 22.86  
-Output: Normal  
-
-Example 2:
-Enter height in meters: 1.6  
-Enter weight in kilograms: 80  
-BMI: 31.25  
-Output: Obesity  
+Area of pond: 22155  
+Total water: 31017  
+Speed: 1 m/s  
 
 ---
 
-### City to Country
+### 🔹 If Condition
 
-Example 1:
-Enter a city name: Abu Dhabi  
-Output: Abu Dhabi is in UAE  
+BMI Example:
+BMI: 22.86 → Normal  
 
-Example 2:
-Enter a city name: Bangalore  
-Output: Bangalore is in India  
+City Example:
+Abu Dhabi is in UAE  
 
-Example 3:
-Enter a city name: Sydney  
-Output: Sydney is in Australia
-
-### Same Country Check
-
-Enter the first city: Mumbai  
-Enter the second city: Chennai  
-Output: Both cities are in India  
-
-Enter the first city: Sydney  
-Enter the second city: Dubai  
-Output: They don't belong to the same country
-
-## For Loop Task 
-
-Dice Rolls Example:
-Rolls: [2, 6, 1, 6, 6, 3, ...]  
-Number of times 6 appeared: 4  
-Number of times 1 appeared: 2  
-Two consecutive 6s: 1  
+Same Country Example:
+Mumbai & Chennai → Same country  
 
 ---
 
-Jumping Jacks Example:
-Are you tired? no  
-Remaining jumping jacks: 90  
+### 🔹 For Loop
 
-Are you tired? yes  
-Do you want to skip remaining sets? yes  
-You completed a total of 20 jumping jacks
+Dice Example:
+Number of 6s: 4  
+Number of 1s: 2  
+Two 6s in a row: 1  
 
-## Dictionary Task 
+Workout Example:
+Completed: 20 jumping jacks  
 
-Friends and name lengths:
-[('Anusha', 6), ('Rahul', 5), ('Sneha', 5), ('Kiran', 5), ('Meena', 5)]
+---
 
-Your total expense: 3000  
-Partner total expense: 3050  
+### 🔹 Dictionary
 
-Your partner spent more money  
+Friends:
+[('Anusha', 6), ('Rahul', 5), ('Sneha', 5), ('Kiran', 5), ('Meena', 5)]  
 
-Highest difference in category: Hotel  
-Difference amount: 200
+Expenses:
+Your total: 3000  
+Partner total: 3050  
+Partner spent more  
+
+Highest difference:
+Hotel → 200  
+
 ---
 
 ## 👩‍💻 Author
