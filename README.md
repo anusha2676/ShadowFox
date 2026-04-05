@@ -22,6 +22,20 @@ This repository contains tasks completed as part of my Python Internship.
 - City to Country mapping using lists
 - Same Country Check
 
+### 🔹 For Loop Task
+
+#### Dice Simulation
+- Simulated rolling a dice 20 times
+- Counted:
+  - Number of 6s
+  - Number of 1s
+  - Two consecutive 6s
+
+#### Jumping Jacks Workout
+- Simulated workout of 100 jumping jacks
+- Asked user after every 10 jumps
+- Allowed skipping if tired
+- Displayed remaining jumps
 ---
 
 ## 💻 Technologies Used
@@ -82,6 +96,24 @@ Output: Both cities are in India
 Enter the first city: Sydney  
 Enter the second city: Dubai  
 Output: They don't belong to the same country
+
+## For Loop Task 
+
+Dice Rolls Example:
+Rolls: [2, 6, 1, 6, 6, 3, ...]  
+Number of times 6 appeared: 4  
+Number of times 1 appeared: 2  
+Two consecutive 6s: 1  
+
+---
+
+Jumping Jacks Example:
+Are you tired? no  
+Remaining jumping jacks: 90  
+
+Are you tired? yes  
+Do you want to skip remaining sets? yes  
+You completed a total of 20 jumping jacks
 
 ---
 
