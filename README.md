@@ -36,6 +36,14 @@ This repository contains tasks completed as part of my Python Internship.
 - Asked user after every 10 jumps
 - Allowed skipping if tired
 - Displayed remaining jumps
+
+### 🔹 Dictionary Task
+- Created list of friends and calculated name lengths
+- Used dictionaries to track expenses
+- Calculated total expenses
+- Compared spending
+- Found highest difference category
+
 ---
 
 ## 💻 Technologies Used
@@ -115,6 +123,18 @@ Are you tired? yes
 Do you want to skip remaining sets? yes  
 You completed a total of 20 jumping jacks
 
+## Dictionary Task 
+
+Friends and name lengths:
+[('Anusha', 6), ('Rahul', 5), ('Sneha', 5), ('Kiran', 5), ('Meena', 5)]
+
+Your total expense: 3000  
+Partner total expense: 3050  
+
+Your partner spent more money  
+
+Highest difference in category: Hotel  
+Difference amount: 200
 ---
 
 ## 👩‍💻 Author
