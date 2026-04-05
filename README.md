@@ -72,6 +72,16 @@ Example 3:
 Enter a city name: Sydney  
 Output: Sydney is in Australia
 
+### Same Country Check
+
+Enter the first city: Mumbai  
+Enter the second city: Chennai  
+Output: Both cities are in India  
+
+Enter the first city: Sydney  
+Enter the second city: Dubai  
+Output: They don't belong to the same country
+
 ---
 
 ## 👩‍💻 Author
