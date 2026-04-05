@@ -2,42 +2,41 @@
 
 This repository contains tasks completed as part of my Python Internship.
 
+---
+
 ## 📌 Tasks
 
-### Task 1
+### 🔹 Variables Task
 - Created variable pi and checked its data type
-
-### Task 2
 - Tested using reserved keyword as variable
+- Calculated Simple Interest
 
-### Task 3
-- Calculated Simple Interest using Python
+### 🔹 Numbers Task
+- Used format() function
+- Calculated area of circular pond
+- Calculated total water in pond
+- Calculated speed in m/s
+
+---
 
 ## 💻 Technologies Used
 - Python
-- 
-## Output
 
-Task 1 Output:
-3.142857142857143
-<class 'float'>
+---
 
-Task 3 Output:
-150.0
+## 📊 Output
 
-## 📊 Numbers Task Output
+### Variables Task
+pi → float  
+Simple Interest → 150.0  
 
-Format Function Output:
-First value is 145 and second value is o
+### Numbers Task
+First value is 145 and second value is o  
+Area of pond → 22155  
+Total water → 31017  
+Speed → 1 m/s  
 
-Pond Area:
-22155
-
-Total Water:
-31017
-
-Speed:
-1 m/s
+---
 
 ## 👩‍💻 Author
 Anusha B
