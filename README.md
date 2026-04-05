@@ -20,6 +20,7 @@ This repository contains tasks completed as part of my Python Internship.
 ### 🔹 If Condition Task
 - BMI Calculator using if-else
 - City to Country mapping using lists
+- Same Country Check
 
 ---
 
