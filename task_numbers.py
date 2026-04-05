@@ -24,3 +24,4 @@ time = 7 * 60  # convert minutes to seconds
 
 speed = distance / time
 print("Speed (m/s):", int(speed))
+
