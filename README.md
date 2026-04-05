@@ -25,5 +25,19 @@ Task 1 Output:
 Task 3 Output:
 150.0
 
+## 📊 Numbers Task Output
+
+Format Function Output:
+First value is 145 and second value is o
+
+Pond Area:
+22155
+
+Total Water:
+31017
+
+Speed:
+1 m/s
+
 ## 👩‍💻 Author
 Anusha B
