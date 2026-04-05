@@ -17,6 +17,10 @@ This repository contains tasks completed as part of my Python Internship.
 - Calculated total water in pond
 - Calculated speed in m/s
 
+### 🔹 If Condition Task
+- BMI Calculator using if-else
+- City to Country mapping using lists
+
 ---
 
 ## 💻 Technologies Used
@@ -35,6 +39,38 @@ First value is 145 and second value is o
 Area of pond → 22155  
 Total water → 31017  
 Speed → 1 m/s  
+
+## 📊 If Condition Task Output
+
+### BMI Calculator
+
+Example 1:
+Enter height in meters: 1.75  
+Enter weight in kilograms: 70  
+BMI: 22.86  
+Output: Normal  
+
+Example 2:
+Enter height in meters: 1.6  
+Enter weight in kilograms: 80  
+BMI: 31.25  
+Output: Obesity  
+
+---
+
+### City to Country
+
+Example 1:
+Enter a city name: Abu Dhabi  
+Output: Abu Dhabi is in UAE  
+
+Example 2:
+Enter a city name: Bangalore  
+Output: Bangalore is in India  
+
+Example 3:
+Enter a city name: Sydney  
+Output: Sydney is in Australia
 
 ---
 
