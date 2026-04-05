@@ -15,6 +15,15 @@ This repository contains tasks completed as part of my Python Internship.
 
 ## 💻 Technologies Used
 - Python
+- 
+## Output
+
+Task 1 Output:
+3.142857142857143
+<class 'float'>
+
+Task 3 Output:
+150.0
 
 ## 👩‍💻 Author
 Anusha B
