@@ -40,7 +40,7 @@ Area of pond → 22155
 Total water → 31017  
 Speed → 1 m/s  
 
-## 📊 If Condition Task Output
+## If Condition Task 
 
 ### BMI Calculator
 
