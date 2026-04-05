@@ -1,3 +1,4 @@
+
 # Task 1: Format Function
 def format_example(a, b):
     result = "First value is {} and second value is {}".format(a, b)
@@ -24,4 +25,3 @@ time = 7 * 60  # convert minutes to seconds
 
 speed = distance / time
 print("Speed (m/s):", int(speed))
-
